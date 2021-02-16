@@ -1,0 +1,72 @@
+gzip: Read1.gz: No such file or directory
+Feb 11 23:21:21 ..... started STAR run
+Feb 11 23:21:21 ..... loading genome
+
+EXITING because of FATAL ERROR: could not open genome file ./GenomeDir//genomeParameters.txt
+SOLUTION: check that the path to genome files, specified in --genomeDir is correct and the files are present, and have user read permsissions
+
+Feb 11 23:21:21 ...... FATAL ERROR, exiting
+gzip: Read2.gz: No such file or directory
+/var/spool/slurmd/job24583090/slurm_script: line 8: --outSAMtype: command not found
+/var/spool/slurmd/job24583090/slurm_script: line 9: --readFilesIn: command not found
+/var/spool/slurmd/job24583090/slurm_script: line 10: --runThreadN: command not found
+gzip: Read1.gz: No such file or directory
+Feb 11 23:21:21 ..... started STAR run
+Feb 11 23:21:21 ..... loading genome
+
+EXITING because of FATAL ERROR: could not open genome file ./GenomeDir//genomeParameters.txt
+SOLUTION: check that the path to genome files, specified in --genomeDir is correct and the files are present, and have user read permsissions
+
+Feb 11 23:21:21 ...... FATAL ERROR, exiting
+/var/spool/slurmd/job24583090/slurm_script: line 8: --outSAMtype: command not found
+/var/spool/slurmd/job24583090/slurm_script: line 9: --readFilesIn: command not found
+/var/spool/slurmd/job24583090/slurm_script: line 10: --runThreadN: command not found
+gzip: Read2.gz: No such file or directory
+gzip: Read1.gz: No such file or directory
+Feb 11 23:21:21 ..... started STAR run
+Feb 11 23:21:21 ..... loading genome
+
+EXITING because of FATAL ERROR: could not open genome file ./GenomeDir//genomeParameters.txt
+SOLUTION: check that the path to genome files, specified in --genomeDir is correct and the files are present, and have user read permsissions
+
+Feb 11 23:21:21 ...... FATAL ERROR, exiting
+/var/spool/slurmd/job24583090/slurm_script: line 8: --outSAMtype: command not found
+/var/spool/slurmd/job24583090/slurm_script: line 9: --readFilesIn: command not found
+/var/spool/slurmd/job24583090/slurm_script: line 10: --runThreadN: command not found
+gzip: Read2.gz: No such file or directory
+gzip: Read1.gz: No such file or directory
+Feb 11 23:21:21 ..... started STAR run
+Feb 11 23:21:21 ..... loading genome
+
+EXITING because of FATAL ERROR: could not open genome file ./GenomeDir//genomeParameters.txt
+SOLUTION: check that the path to genome files, specified in --genomeDir is correct and the files are present, and have user read permsissions
+
+Feb 11 23:21:21 ...... FATAL ERROR, exiting
+/var/spool/slurmd/job24583090/slurm_script: line 8: --outSAMtype: command not found
+/var/spool/slurmd/job24583090/slurm_script: line 9: --readFilesIn: command not found
+/var/spool/slurmd/job24583090/slurm_script: line 10: --runThreadN: command not found
+gzip: Read2.gz: No such file or directory
+gzip: Read1.gz: No such file or directory
+Feb 11 23:21:21 ..... started STAR run
+Feb 11 23:21:21 ..... loading genome
+
+EXITING because of FATAL ERROR: could not open genome file ./GenomeDir//genomeParameters.txt
+SOLUTION: check that the path to genome files, specified in --genomeDir is correct and the files are present, and have user read permsissions
+
+Feb 11 23:21:21 ...... FATAL ERROR, exiting
+/var/spool/slurmd/job24583090/slurm_script: line 8: --outSAMtype: command not found
+/var/spool/slurmd/job24583090/slurm_script: line 9: --readFilesIn: command not found
+/var/spool/slurmd/job24583090/slurm_script: line 10: --runThreadN: command not found
+gzip: Read2.gz: No such file or directory
+gzip: Read1.gz: No such file or directory
+Feb 11 23:21:21 ..... started STAR run
+Feb 11 23:21:22 ..... loading genome
+
+EXITING because of FATAL ERROR: could not open genome file ./GenomeDir//genomeParameters.txt
+SOLUTION: check that the path to genome files, specified in --genomeDir is correct and the files are present, and have user read permsissions
+
+Feb 11 23:21:22 ...... FATAL ERROR, exiting
+/var/spool/slurmd/job24583090/slurm_script: line 8: --outSAMtype: command not found
+/var/spool/slurmd/job24583090/slurm_script: line 9: --readFilesIn: command not found
+gzip: Read2.gz: No such file or directory
+/var/spool/slurmd/job24583090/slurm_script: line 10: --runThreadN: command not found
